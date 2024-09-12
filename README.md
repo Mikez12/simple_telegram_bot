@@ -94,4 +94,16 @@ Example Interaction
 License
 -------
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+Support
+-------
+
+If you find this bot useful, consider supporting me by:
+
+*   ⭐️ Starring the repository on GitHub.
+    
+*   💰 Supporting me on Buy Me a Coffee: https://buymeacoffee.com/mikedeejoi.
+
+*   💵 Hiring me to take your projects to the next level: https://it.fiverr.com/users/mikedigio/  
